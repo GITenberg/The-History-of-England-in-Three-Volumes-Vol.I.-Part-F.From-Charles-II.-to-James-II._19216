@@ -1,0 +1,31 @@
+_repo: The-History-of-England-in-Three-Volumes-Vol.I.-Part-F.From-Charles-II.-to-James-II._19216
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19216-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hume, David
+    birthdate: 1711
+    deathdate: 1776
+    gutenberg_agent_id: '1440'
+    url: http://www.gutenberg.org/2009/agents/1440
+    wikipedia: http://en.wikipedia.org/wiki/David_Hume
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2006-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19216'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Charles II, 1660-1685'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- James II, 1685-1688'
+title: 'The History of England in Three Volumes, Vol.I., Part F.
+
+  From Charles II. to James II.'
+url: http://www.gutenberg.org/ebooks/19216
